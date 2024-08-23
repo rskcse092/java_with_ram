@@ -1,0 +1,3 @@
+hi , i am Ram
+your , favourite  coder and singer
+let us do file inout stream
